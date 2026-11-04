@@ -47,3 +47,6 @@ P(maintenance = yes | delayed, heavy) ≈ 0.1176.
 ## 8. Summary and submission
 
 ![Step 10: summary, exit question and submission checklist](lab4_screenshot_08.png)
+
+
+[steps to solve written questions] image.png
